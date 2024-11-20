@@ -1,4 +1,4 @@
-﻿# Sistemagerenciamento de Tarefas
+﻿# Sistema de Gerenciamento de Tarefas
 ---
 
  Atividade: Gerenciamento de Lista de Tarefas
